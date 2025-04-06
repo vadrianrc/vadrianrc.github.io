@@ -9,14 +9,13 @@ layout: default
 [Acceder a portafolio de proyectos](./portfolio.html)
 
 
-¡Hola!, mi nombre es Victor Adrian Rosales Cutipa. Soy de Lima, Perú. Egresado de Ingeniería Civil de la Universidad Nacional de Ingeniería.
+¡Hola!, mi nombre es Victor Adrian Rosales Cutipa. Soy de Lima, Perú. Egresado de Ingeniería Civil de la Universidad Nacional de Ingeniería interesado en las áreas de ingeniería estructural y geotécnica.
 
 >Mi formación académica tiene enfoque en la rama de estructuras. He cursado las siguientes asignaturas electivas:
 >* Dirección y Organización de Empresas
 >* Análisis Estructural II
 >* Rehabilitación y Refuerzo de estructuras
 >* Taller de Ingeniería Estructural
->* Mecánica de Suelos Aplicada a Cimentaciones
 >* Concreto Armado II
 >* Dinámica de Suelos
 
@@ -24,9 +23,9 @@ He concluido el programa de Inglés para Jóvenes y Adultos en el Instituto Cult
 
 Soy un aficionado a la programación y he realizado diversos pequeños proyectos en lenguaje C, C++ y Python. Aspecto que he fortalecido por medio de cursos en los que aprendí la implementación de interfaces GUI para el desarrollo de aplicaciones de escritorio y el manejo de programación orientada a objetos y listas.
 
-Manejo diversos softwares propios del análisis y diseño estructural como CSI SAP2000, CSI ETABS y CSI SAFE; así como entornos CAD y de modelamiento tridimensional, como AutoCAD, Civil 3D, Revit y SketchUp. También empleo plataformas propias del entorno Office como Word, Powerpoint, Excel e inclusive MS Project. Usualmente me apoyo en herramientas como Mathcad, Canva, Miro y Notion para el desarrollo de mis tareas y proyectos en la universidad.
+Manejo diversos softwares propios del análisis y diseño estructural como CSI SAP2000, CSI ETABS y CSI SAFE; así como entornos CAD y de modelamiento tridimensional, como AutoCAD, Civil 3D, Revit y SketchUp. Adicionalmente, manejo softwares para diseño y verificación geotécnica como Plaxis 2D y Slide; así como paquetes aplicados al análisis y procesamiento de señales sísmicas. En ofimática, empleo plataformas propias del entorno Office como Word, Powerpoint, Excel y MS Project. Usualmente me apoyo en herramientas como Mathcad, Canva, Miro y Notion para el desarrollo de otras tareas y proyectos.
 
-Actualmente me desenvuelvo en el Laboratorio N°1 de Ensayos de Materiales en la facultad de Ingeniería Civil de la Universidad Nacional de Ingeniería como encargado de investigación. Mi tesis, en desarrollo, se centra en la aplicación de Inteligencia Artificial y Redes Neuronales Artificiales para predecir las propiedades mecánicas del concreto a partir de sus parámetros de diseño de mezcla. Proyecto realizado en cooperación con el laboratorio.
+Actualmente me desenvuelvo en el proyecto Recrecimiento de la Presa de Relaves (6ta Etapa) - Toromocho, como practicante profesional de empresa Mota-Engil. Paralelamente a las labores del área, me encuentro involucrado en la mejora de la productividad por medio de la reducción de interferencias. Hasta la fecha, hemos logrado reducir los tiempos no contributorios en un 4% en la principal partida del proyecto, generando ahorro económico.
 
 Lo invito a revisar mi portafolio de proyectos y a conectar en LinkedIn. Muchas gracias.
 
